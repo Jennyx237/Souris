@@ -1,9 +1,9 @@
 # Souris
-  Le code fourni :
+   Le code fourni :
     -construit  des souris ;
     -les fait évoluer au moyen d’une méthode evolue ;
     -affiche les souris avant et après les avoir fait évoluer.
-  Le corps de la classe Souris manque et c’est ce qu’il nous est demandé d’écrire.
+   Le corps de la classe Souris manque et c’est ce qu’il nous est demandé d’écrire.
 
 ## Spécifications de la classe Souris
   Une souris est caractérisée par :
